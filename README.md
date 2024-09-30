@@ -1,6 +1,3 @@
-## Overview
-The challenge involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. Participants are encouraged to deploy the application, add creative enhancements, and submit a Pull Request (PR).
-## Challenge Steps
 - [Application Code](#application-code)
 - [Jenkins Pipeline Code](#jenkins-pipeline-code)
 - [Jenkins Server Terraform](#jenkins-server-terraform)
