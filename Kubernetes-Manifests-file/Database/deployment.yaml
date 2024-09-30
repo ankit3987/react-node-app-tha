@@ -12,7 +12,7 @@ spec:
     metadata:
       labels: 
         app: mongodb
-    spec: 
+    spec:
       containers:
       - name: mon
         image: mongo:4.4.6
